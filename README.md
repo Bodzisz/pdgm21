@@ -1,5 +1,7 @@
 # Programming Paradigms Lab University Course
 
+Every list has its own branch. To see contents select appropriate branch.
+
 All programms are written in Scala
 
 **Contents**:
